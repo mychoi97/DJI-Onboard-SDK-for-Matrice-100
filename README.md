@@ -1,7 +1,12 @@
 # DJI-Onboard-SDK-for-Matrice-100
 
 This documentation tells how to set DJI m100 for onboard flight.
-Largely, three part exists. 
+
+It is a manual created under the initiative of Sanghun Lee.
+https://github.com/sanghun17/dji-m100-osdk-ros-setting
+
+Largely, three part exists.
+
 1. DJI m100 setting
 1-1) Make DJI account and App
 1-2) Install DJI assistant2 and set parameter
