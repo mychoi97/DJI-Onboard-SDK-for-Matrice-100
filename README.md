@@ -7,6 +7,8 @@ https://github.com/sanghun17/dji-m100-osdk-ros-setting
 
 Largely, three part exists.
 
+
+
 1. DJI m100 setting
 
 1-1) Make DJI account and App.
@@ -14,6 +16,8 @@ Largely, three part exists.
 1-2) Install DJI assistant2 and set parameter.
 
 1-3) Set USB-TTL convertor for serial communication.
+
+
 
 
 2. Onboard computer setting
@@ -33,6 +37,8 @@ Largely, three part exists.
 2-7) dji-osdk-ros parameter setting.
 
 
+
+
 3. Connection Onboard computer with m100 and Test
 
 3-1) Drone activation (through DJI GO app).
@@ -42,6 +48,8 @@ Largely, three part exists.
 3-3) Test dji-osdk-ros with ROS.
 
 3-4) Waypoint mission with dji-osdk-ros.
+
+
 
 
 4. Possible error and solution
